@@ -1,0 +1,31 @@
+.fish {
+  color: red;
+  font-family: serif;
+
+}
+.help {
+  color: orange;
+  text-transform:uppercase;
+  text-decoration:underline;
+}
+.findfoods {
+  color: crimson;
+  font-size: 2rem;
+  border-style: solid;
+  border-color: red;
+}
+
+.crazy {
+  font-family: fantasy;
+  font-weight:lighter;
+
+}
+body {
+  background-color: skyblue;
+}
+
+.img {
+  width: 30%;
+  height: auto;
+  margin: auto;
+}
