@@ -1,6 +1,9 @@
 .fish {
   color: red;
   font-family: serif;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  border: 2px solid blue;
 
 }
 .help {
@@ -13,11 +16,18 @@
   font-size: 2rem;
   border-style: solid;
   border-color: red;
+  margin-top: 30px;
+  margin-bottom: 20px;
+
 }
 
 .crazy {
   font-family: fantasy;
   font-weight:lighter;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  border: 2px solid orange;
+
 
 }
 body {
