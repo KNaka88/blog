@@ -39,3 +39,28 @@ body {
   height: auto;
   margin: auto;
 }
+
+
+@media screen and (max-width: 1000px) and (min-width: 475px){
+  .img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
+  body {
+    background-color: pink;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .img {
+    width: 90%;
+    height: auto;
+  }
+  body {
+    background-color: black;
+    color: white;
+
+  }
+}
